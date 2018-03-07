@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Formulario1</string>
+    <string name="nombre">Nombre: </string>
+    <string name="contraseña">Password: </string>
+    <string name="repetir">Repetir Password: </string>
+    <string name="email">E-mail: </string>
+    <string name="correo"> example@gmail.com</string>
+    <string name="masculino">Masculio</string>
+    <string name="femenino">Femenino</string>
+    <string name="fechadenacimiento">Fecha de Nacimiento: </string>
+    <string name="lugar_nacimiento">Lugar de Nacimiento: </string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="nadar">Nadar</string>
+    <string name="cine">Cine</string>
+    <string name="correr">Correr</string>
+    <string name="guardar">Guardar</string>
+    <string-array name="ciudades">
+        <item>Apartado</item>
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+        <item>Manizales</item>
+        <item>Bucaramanga</item>
+    </string-array>
+</resources>

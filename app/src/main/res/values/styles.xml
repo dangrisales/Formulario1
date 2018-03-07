@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/darkmagenta</item>
+        <item name="colorPrimaryDark">@color/darkmagenta</item>
+        <item name="colorAccent">@color/fuchsia</item>
+        name="mySpinnerItemStyle" parent="Base.Widget.AppCompat.Spinner">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:popupBackground">@color/darkmagenta</item>
+    </style>
+
+
+</resources>
